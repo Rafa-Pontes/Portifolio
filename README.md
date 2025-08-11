@@ -1,8 +1,9 @@
 # Site Portfólio
 
-Acesse: [O Site ](https://rafael705.github.io/Portifolio/)
+Acesse: [https://rafael705.github.io/Portifolio/](https://rafael705.github.io/Portifolio/)
 
 ## Tecnologias utilizadas
 
 - HTML5
--
+- CSS
+- TailwindCSS
